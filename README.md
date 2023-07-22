@@ -1,20 +1,35 @@
-这里收集一下本人网站所撰写的文章，因为域名老是被墙，换来换去的，现在直接在 WIKI 备份一下，不怕看不到了。
+## Freedom&Money自用一键安装v2ray脚本
 
-## 资助 V2Ray
+### 脚本功能：
+* 安装V2ray服务，端口设置为31535
+* 修改时区到对应区域
+* 更改ssh端口为2222，关闭22端口
+* 开启31535端口
+* 展示使用v2ray二维码
 
-请考虑 [资助 V2Ray 发展](https://www.v2ray.com/chapter_00/02_donate.html)。
+### 支持区域脚本
 
-## V2Ray 一键安装脚本
+1. 英国/伦敦
 
-[V2Ray 一键安装脚本](https://git.io/v2ray-script)
+```shell
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_uk.sh)
+```
 
-## V2Ray 搭建教程
+2. 美国/纽约
 
-这是为小白而准备 V2Ray 搭建教程，详细的图文教程确保你可以百分百成功搭建 V2Ray 使用。
+```shell
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_us.sh)
+```
 
-[V2Ray搭建详细图文教程](https://git.io/v2ray-doc)
+3. 马来西亚/吉隆坡
 
-## V2Ray客户端使用教程
+```shell
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_malaysia.sh)
+```
 
-[V2Ray客户端使用教程](https://git.io/v2ray-client)
+4. 越南/河内
+
+```
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_vietnam.sh)
+```
 
