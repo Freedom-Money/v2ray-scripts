@@ -33,9 +33,8 @@ update_ports() {
     sudo firewall-cmd --zone=public --add-port=31535/udp --permanent
 
     sudo firewall-cmd --reload
-    echo "防火墙已启动，SSH端口已修改为2222，22端口已禁用（如已开启）。"
+    echo "防火墙已启动，SSH端口已修改为2222，22端口已禁用，31535已启用。"
 }
 
-
-timezone
+set_timezone
 update_ports
