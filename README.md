@@ -29,7 +29,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/
 
 4. 越南/河内
 
-```
+```shell
 bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_vietnam.sh)
 ```
 
