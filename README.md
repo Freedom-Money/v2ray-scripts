@@ -39,3 +39,9 @@ bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/
 bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_Riyadh.sh)
 ```
 
+6. 美国/芝加哥
+
+```shell
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_Chicago.sh)
+```
+
