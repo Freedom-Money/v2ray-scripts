@@ -45,3 +45,10 @@ bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/
 bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_Chicago.sh)
 ```
 
+7. 美国/洛杉矶
+
+```shell
+bash <(curl -s -L https://raw.githubusercontent.com/Freedom-Money/v2ray-scripts/master/v2ray_Los_Angeles.sh)
+```
+
+
