@@ -14,3 +14,6 @@ echo "America/Los_Angeles
 
 # 显示v2ray二维码
 v2ray qr
+
+# 显示分享链接
+v2ray url
